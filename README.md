@@ -3,8 +3,8 @@
 <p> A high school student trying to gradually learn to code ❤ </p>
   
 <h1> :grey_question: About </h1>
-  <p>  My name is Efe </p>
-  <p> :nerd: I am back-end developer </p>
+  <p> My name is Efe </p>
+  <p> I am back-end developer </p>
   <p> I live in Turkey </p>
   <p> Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
